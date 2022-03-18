@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family:'Barlow', sans-serif;
+	font-family:'Inspiration', cursive;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -16,10 +16,12 @@ body {
 .resume-header {
     background-color: #A0E1C8;
 	Color: White
+		
 }
 
 .resume-main {
 	background-color: #fffefc;
+	
 }
 
 .resume-aside {
